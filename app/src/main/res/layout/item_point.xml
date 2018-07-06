@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#eae6e6"
+    android:elevation="1dp"
+    android:layout_margin="4dp">
+
+    <TextView
+        android:id="@+id/txtPointName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        tools:text="Plaza Vea"
+        android:padding="8dp"
+        android:textSize="16sp"/>
+
+</LinearLayout>
